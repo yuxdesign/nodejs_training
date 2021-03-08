@@ -9,7 +9,7 @@ $ cd nodejs_training
 
 ## ウェブサーバーを起動
 ```
-$ nnode app1.js
+$ node app1.js
 ```
 
 ## コメント変更
