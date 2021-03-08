@@ -49,7 +49,7 @@ function response_index(request, response) {
     title: "Index",
     content: msg,
   });
-  response.writeHead(200, { 'Content-Type': 'text/html' });
+  response.writeHead(200, { 'Content-Type': 'text/html; charset=UTF-8' });
   response.write(content);
   response.end();
 }
