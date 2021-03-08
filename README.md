@@ -19,5 +19,6 @@ $ node app2.js
 
 ## テンプレートエンジンでhtmlを分離、入力フォームを追加
 ```
+$ npm install ejs
 $ node app3.js
 ```
